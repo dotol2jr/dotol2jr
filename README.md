@@ -1,4 +1,5 @@
 - 👋 안녕하세요 도토리입니다~
+- ❤JS/Vue/GraphQL/C++
 
 <!---
 dotol2jr/dotol2jr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
